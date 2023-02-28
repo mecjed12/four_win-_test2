@@ -6,7 +6,7 @@ class FourInARow
 
    
 
-    // das ist noch eine änderung
+    // das ist noch eine änderung und eine zweite
     private static char[,] board = new char[6, 7];
     private static bool playerOneTurn = true;
 
