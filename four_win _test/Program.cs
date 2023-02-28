@@ -1,7 +1,10 @@
 ﻿using System;
 
 class FourInARow
-{
+{   
+
+
+    // das eine änderung
     private static char[,] board = new char[6, 7];
     private static bool playerOneTurn = true;
 
